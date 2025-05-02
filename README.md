@@ -5,13 +5,13 @@
 Me chamo Felipe Oliveira, sou desenvolvedor de software com interesse atual em **Back-end**, mas aberto a explorar diferentes áreas da tecnologia. Estou constantemente aprendendo, criando projetos pessoais e desenvolvendo minha base técnica.
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/felipe-oliveira-it/" target="_blank">
+    <a href="https://www.linkedin.com/in/felipe-oliveira-it/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-    <a href="mailto:felipeoliveirait10@gmail.com" target="_blank">
+    <a href="mailto:felipeoliveirait10@gmail.com" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
- 	<a href="https://github.com/felipeoliveirait" target="_blank">
+ 	<a href="https://github.com/felipeoliveirait" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
     </a>
 </p>
@@ -111,6 +111,14 @@ Me chamo Felipe Oliveira, sou desenvolvedor de software com interesse atual em *
 />
 <img 
     align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Docker" 
     title="Docker"
     width="30px" 
@@ -123,20 +131,16 @@ Me chamo Felipe Oliveira, sou desenvolvedor de software com interesse atual em *
 
 ### 📊 Estatísticas
 
-<p>
+<p align="center">
   <img 
-    align="left" 
     alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
+    height="180" 
     src="https://github-readme-stats.vercel.app/api?username=felipeoliveirait&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-pt" 
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeoliveirait&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <br/><br/>
+  <img 
+    alt="Top Langs" 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeoliveirait&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
