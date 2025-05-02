@@ -131,16 +131,18 @@ Me chamo Felipe Oliveira, sou desenvolvedor de software com interesse atual em *
 
 ### 📊 Estatísticas
 
-<p align="center">
+<p>
   <img 
+    align="left" 
     alt="GitHub Stats" 
-    height="180" 
+    height="200" 
+    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=felipeoliveirait&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-pt" 
   />
-  <br/><br/>
-  <img 
-    alt="Top Langs" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeoliveirait&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeoliveirait&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
