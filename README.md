@@ -111,14 +111,6 @@ Me chamo Felipe Oliveira, sou desenvolvedor de software com interesse atual em *
 />
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Docker" 
     title="Docker"
     width="30px" 
