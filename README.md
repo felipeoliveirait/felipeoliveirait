@@ -2,7 +2,7 @@
 
 **`Software Developer`**
 
-Me chamo Felipe Oliveira, sou desenvolvedor de software full stack com interesse atual em **Web**, mas aberto a explorar diferentes áreas da tecnologia. Estou constantemente aprendendo, criando projetos pessoais e desenvolvendo minha base técnica.
+Me chamo Felipe Oliveira, sou desenvolvedor de software com interesse atual em Java e Angular, mas aberto a explorar diferentes áreas da tecnologia. Estou constantemente aprendendo, criando projetos pessoais e desenvolvendo minha base técnica.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/felipe-oliveira-it/" target="_blank" style="text-decoration: none;">
